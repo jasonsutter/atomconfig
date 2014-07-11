@@ -1,0 +1,10 @@
+'editor':
+  'showIndentGuide': true
+  'fontSize': 12
+'core': {}
+'exception-reporting':
+  'userId': 'f64caf71-bf5a-162f-9a7f-f014dcd160d9'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '1a667497cd89e02874c4ccc5c0dd6a87987d5f4c'

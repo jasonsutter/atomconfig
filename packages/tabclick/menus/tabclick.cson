@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable tabclick': 'tabclick:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'tabclick'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'tabclick:toggle' }
+      ]
+    ]
+  }
+]

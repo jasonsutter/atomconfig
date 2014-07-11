@@ -1,0 +1,35 @@
+{
+  "name": "clipboard-history",
+  "author": {
+    "name": "Andrei Demian",
+    "url": "http://twitter.com/unDemian"
+  },
+  "main": "./lib/clipboard-history",
+  "version": "0.4.1",
+  "description": "Keep a history of your clipboard items. Let you paste them back in, as needed.",
+  "activationEvents": [
+    "clipboard-history:copy",
+    "clipboard-history:paste"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unDemian/clipboard-history"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# clipboard-history package\n\nKeep a history of your clipboard items. Let you paste them back in, as needed.\n\n![A screenshot of your spankin' package](https://raw.githubusercontent.com/unDemian/clipboard-history/master/9d583d23520cfb5945bfcb87f341ebd7.gif)\n\n## Usage\n\n- `Cmd-Shift-V` on MacOS\n- `Ctrl-Shift-V` on Windows + Linux\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/unDemian/clipboard-history/issues"
+  },
+  "homepage": "https://github.com/unDemian/clipboard-history",
+  "_id": "clipboard-history@0.4.1",
+  "dist": {
+    "shasum": "064aedefd6a8b3a3255c7c92a794637ca33c8993"
+  },
+  "_resolved": "/var/folders/z6/97tn9nhj3z5fw98xfxpyg00w0000gn/T/d-11468-20347-67ocbn/package.tgz",
+  "_from": "/var/folders/z6/97tn9nhj3z5fw98xfxpyg00w0000gn/T/d-11468-20347-67ocbn/package.tgz"
+}

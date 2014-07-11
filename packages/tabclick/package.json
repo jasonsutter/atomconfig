@@ -1,0 +1,30 @@
+{
+  "name": "tabclick",
+  "main": "./lib/tabclick",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Double-click an empty part of the tab bar to generate an empty file.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redlist/tabclick"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "readme": "# Tabclick\n\nDouble-click an empty part of the tab bar to generate an empty file.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/redlist/tabclick/issues"
+  },
+  "homepage": "https://github.com/redlist/tabclick",
+  "_id": "tabclick@0.1.0",
+  "dist": {
+    "shasum": "a680944bb38033f18e4c4e57e19e53270c54cbc6"
+  },
+  "_resolved": "/var/folders/z6/97tn9nhj3z5fw98xfxpyg00w0000gn/T/d-11468-20304-1joudey/package.tgz",
+  "_from": "/var/folders/z6/97tn9nhj3z5fw98xfxpyg00w0000gn/T/d-11468-20304-1joudey/package.tgz"
+}
